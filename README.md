@@ -1,3 +1,4 @@
+![carsshowcase](https://github.com/deepak-ks-sde/cars_showcase/assets/101627261/e57a314a-a2c8-4194-9cff-9f3e5e2a9ff0)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
